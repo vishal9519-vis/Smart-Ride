@@ -1,5 +1,8 @@
 ![License](https://img.shields.io/github/license/vishal9519-vis/Smart-Ride)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+
+![License](https://img.shields.io/github/license/vishal9519-vis/Smart-Ride)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Repo Size](https://img.shields.io/github/repo-size/vishal9519-vis/Smart-Ride) 
 # Smart Ride AI
 

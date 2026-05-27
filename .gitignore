@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+smart_ride_ai/data/*.avi
+.ipynb_checkpoints/
+.env
+smart_ride_ai/data/*.csv
+smart_ride_ai/data/*.json
+smart_ride_ai/assets/*.png
+smart_ride_ai/models/*.pkl

@@ -1,3 +1,4 @@
+![CI](https://github.com/vishal9519-vis/Smart-Ride/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/github/license/vishal9519-vis/Smart-Ride)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 

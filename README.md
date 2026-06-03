@@ -37,7 +37,7 @@ smart_ride_ai/
 |-- dashboard/           Streamlit app
 |-- data/                CSV outputs + road memory JSON (generated at runtime)
 |-- models/              Trained pkl files (generated at runtime)
-|-- assets/              Chart images (generated at runtime)
+|-- assets/             Chart images (generated at runtime) / demo video
 smart_ride_ai_colab.ipynb   Full pipeline notebook
 requirements.txt
 ```
